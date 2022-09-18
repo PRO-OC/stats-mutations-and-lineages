@@ -1,7 +1,5 @@
 # Statistics of mutations and corresponding lineages
 
-## Zjištěné závěry
-
 V následujících odstavcích se pokusím shrnout zjištěné závěry.
 
 VFN v období kdy v České Republice dominovala varianta Delta testovala na přítomnost mutace L452R dle doporučení NRL a jako další mutaci si z více možností, které NRL doporučovala vybrala mutaci pravděpodobně jako jedna z mála laboratoří MOI P681R. Mutace L452R a mutace P681R jsou jako jedinné uváděné webem outbreak.info jako mutations of interest (obávané, nadále jako MOI) pro všechny subvarianty Delty, AY.4, AY.43, AY.122 (https://outbreak.info/compare-lineages?pango=AY.4&pango=AY.43&pango=AY.122&gene=ORF1a&gene=ORF1b&gene=S&threshold=90&nthresh=1&sub=false&dark=false). Laboratoř VFN prováděla u pacientů test na mutaci L452R i po konci vlny Delta a řídila se tak doporučením provádět tento test pro první orientaci, ale s opačným očekáváním na výsledek, protože Omikron tuto mutaci již neobsahuje. Web outbreak.info pro Omikron a jeho subvarianty uvádí jako MOI také P681R (v 99.1% všech sekvencí), S477N a N501Y. Je důležité poznamenat, že touto dobou již měla NLR možnost se opřít o výsledky projektu celogenomově sekvenovaných vzorků AV ČR a spolupracujících institucí, které potvrzovaly příchod Omikronu. NRL šlo tedy o to vydat takové doporučení, které by vyloučilo Deltu (nepotvrzený test mutace L452R) a poté se už pokusit klasifikovat subvariantu Omikronu. Zmíněné MOI P681R měli obě subvarianty Omikronu.
